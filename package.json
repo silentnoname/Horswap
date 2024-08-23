@@ -1,6 +1,6 @@
 {
-  "name": "@silent/horswap#wishlist",
-  "version": "1.0.0",
+  "name": "@silent/horswap",
+  "version": "wishlist-1.0.0",
   "repository": "https://github.com/silentnoname/Horswap",
   "description": "Horswap Interface",
   "license": "GPL-3.0-or-later",
